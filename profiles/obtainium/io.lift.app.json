@@ -1,0 +1,19 @@
+{
+  "id": "io.lift.app",
+  "url": "https://liftapp.ink/",
+  "author": "Lift",
+  "name": "Lift",
+  "installedVersion": "0.2.51",
+  "latestVersion": "0.2.51",
+  "apkUrls": "[[\"Lift.apk\", \"https://liftapp.ink/app_last\"]]",
+  "otherAssetUrls": "[]",
+  "preferredApkIndex": 0,
+  "additionalSettings": "{\"customLinkFilterRegex\":\"app_last\",\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"exemptFromBackgroundUpdates\":false,\"versionDetection\":false}",
+  "lastUpdateCheck": null,
+  "pinned": false,
+  "disabled": false,
+  "categories": [],
+  "releaseDate": null,
+  "changeLog": null,
+  "releaseUrl": null
+}

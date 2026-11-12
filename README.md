@@ -1,15 +1,22 @@
-# Обновления DQ06
+# DQ06 Home
 
-APK нашего лаунчера и профиль Obtainium. Исходники разработки остаются в закрытом репозитории.
+Лаунчер для DQ06 с плитками приложений, кнопками RuStore и Google Play, настройками обновлений и Linux Lite. Исходники лаунчера и прошивки остаются закрытыми.
 
-- [APK лаунчера](https://github.com/Cheviiot/dq06-updates/releases/latest)
-- [Профиль Obtainium](https://raw.githubusercontent.com/Cheviiot/dq06-updates/main/obtainium-dq06.json)
-- [Импортировать приложения в Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium%3A%2F%2Fapps%2F%255B%257B%2522id%2522%253A%2522io.lift.app%2522%252C%2522url%2522%253A%2522https%253A%252F%252Fliftapp.ink%252F%2522%252C%2522author%2522%253A%2522Lift%2522%252C%2522name%2522%253A%2522Lift%2522%252C%2522additionalSettings%2522%253A%2522%257B%255C%2522customLinkFilterRegex%255C%2522%253A%255C%2522app_last%255C%2522%252C%255C%2522defaultPseudoVersioningMethod%255C%2522%253A%255C%2522partialAPKHash%255C%2522%252C%255C%2522exemptFromBackgroundUpdates%255C%2522%253Afalse%252C%255C%2522versionDetection%255C%2522%253Afalse%257D%2522%257D%252C%257B%2522id%2522%253A%2522ru.cheviiot.dq06.home%2522%252C%2522url%2522%253A%2522https%253A%252F%252Fgithub.com%252FCheviiot%252Fdq06-updates%2522%252C%2522author%2522%253A%2522Cheviiot%2522%252C%2522name%2522%253A%2522DQ06%2520Home%2522%252C%2522additionalSettings%2522%253A%2522%257B%255C%2522apkFilterRegEx%255C%2522%253A%255C%2522%255EDQ06Home%255C%255C%255C%255C.apk%2524%255C%2522%252C%255C%2522versionExtractionRegEx%255C%2522%253A%255C%2522launcher-v%2528%255B0-9%255D%252B%255C%255C%255C%255C.%255B0-9%255D%252B%255C%255C%255C%255C.%255B0-9%255D%252B%2529%255C%2522%252C%255C%2522matchGroupToUse%255C%2522%253A%255C%25221%255C%2522%252C%255C%2522exemptFromBackgroundUpdates%255C%2522%253Afalse%252C%255C%2522versionDetection%255C%2522%253Atrue%257D%2522%257D%255D)
+- [Скачать APK](https://github.com/Cheviiot/dq06-home/releases/latest)
+- [Профиль приложений Obtainium](https://raw.githubusercontent.com/Cheviiot/dq06-home/main/obtainium-dq06.json)
 
-Профиль добавляет DQ06 Home из этого репозитория и Lift с официального сайта. YouTube обновляется через Google Play, RuStore сохраняет свой механизм обновления. Obtainium сам добавляет свой источник GitHub.
+## Обновления
 
-Чтобы передать новый список приложений на ТВ, обновите JSON и импортируйте его в Obtainium. Импорт по ссылке требует подтверждения на ТВ. Постоянной синхронизации списка с репозиторием нет.
+Откройте **Настройки → Обновления → Обновить список**, затем выберите **Применить** для импорта профиля в оригинальный Obtainium. Публичный профиль содержит только DQ06 Home и Lift. APK лаунчера обновляется через GitHub-релизы и Obtainium; его подпись должна совпадать с установленной. YouTube обновляется через Google Play, RuStore сохраняет собственный механизм обновлений.
 
-Не удаляйте установленный лаунчер при обновлении: следующие APK должны иметь тот же ключ подписи. Встроенная проверка обновлений работает по расписанию Android; бесшумная установка зависит от установщика и совместимости приложения.
+Профиль загружается по кнопке. Импорт обновляет перечисленные записи Obtainium и не удаляет отсутствующие в JSON приложения. Для установки обновлений Android может запросить подтверждение.
 
-Проверено для текущего APK: 316 тестов, lint без ошибок, подпись и скачивание опубликованного файла. Проверка загрузки прошивки и работы пульта на реальной DQ06 ещё не выполнена.
+## Linux Lite
+
+Встроенный терминал и экран управления Linux Lite работают с компонентами прошивки DQ06 Clean 12.16.2. Debian ARMhf входит в образ прошивки, а не в APK лаунчера; установка одного APK не добавляет Linux или Magisk. Debian запускается по требованию без рабочего стола и systemd. SSH выключен по умолчанию и принимает только ключи.
+
+## Совместимость и лицензии
+
+Android 8.0 и новее. Версия 12.16.2 проверена в изолированном Android TV API 31 эмуляторе; реальная прошивка и работа Magisk, Debian и SSH на устройстве ещё не проверены.
+
+Репозиторий содержит лицензию CleanYourTV MIT, лицензию шрифта Outfit OFL, атрибуцию Fluent Emoji и лицензию Apache-2.0 библиотек встроенного терминала (`terminal-emulator` и `terminal-view`). Приложение Termux не требуется.
