@@ -27,8 +27,8 @@
       "author": "Cheviiot",
       "name": "DQ06 Home",
       "installedVersion": null,
-      "latestVersion": "12.16.8",
-      "apkUrls": "[[\"DQ06Home.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/launcher-v12.16.8/DQ06Home.apk\"]]",
+      "latestVersion": "12.16.9",
+      "apkUrls": "[[\"DQ06Home.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/launcher-v12.16.9/DQ06Home.apk\"]]",
       "otherAssetUrls": "[]",
       "preferredApkIndex": 0,
       "additionalSettings": "{\"apkFilterRegEx\":\"^DQ06Home\\\\.apk$\",\"versionExtractionRegEx\":\"launcher-v([0-9]+\\\\.[0-9]+\\\\.[0-9]+)\",\"matchGroupToUse\":\"1\",\"exemptFromBackgroundUpdates\":false,\"versionDetection\":true}",
@@ -38,7 +38,7 @@
       "categories": [],
       "releaseDate": null,
       "changeLog": null,
-      "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/launcher-v12.16.8"
+      "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/launcher-v12.16.9"
     },
     {
       "id": "app.fluffy",
