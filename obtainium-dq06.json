@@ -27,8 +27,8 @@
       "author": "Cheviiot",
       "name": "DQ06 Home",
       "installedVersion": null,
-      "latestVersion": "12.16.24",
-      "apkUrls": "[[\"DQ06Home.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/launcher-v12.16.24/DQ06Home.apk\"]]",
+      "latestVersion": "12.16.25",
+      "apkUrls": "[[\"DQ06Home.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/launcher-v12.16.25/DQ06Home.apk\"]]",
       "otherAssetUrls": "[]",
       "preferredApkIndex": 0,
       "additionalSettings": "{\"apkFilterRegEx\":\"^DQ06Home\\\\.apk$\",\"filterReleaseTitlesByRegEx\":\"^DQ06 Home \",\"fallbackToOlderReleases\":true,\"versionExtractionRegEx\":\"launcher-v([0-9]+\\\\.[0-9]+\\\\.[0-9]+)\",\"matchGroupToUse\":\"1\",\"exemptFromBackgroundUpdates\":false,\"versionDetection\":true}",
@@ -38,7 +38,7 @@
       "categories": [],
       "releaseDate": null,
       "changeLog": null,
-      "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/launcher-v12.16.24"
+      "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/launcher-v12.16.25"
     },
     {
       "id": "ru.cheviiot.dq06.files",
@@ -58,6 +58,25 @@
       "releaseDate": null,
       "changeLog": null,
       "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/files-v0.1.1"
+    },
+    {
+      "id": "ru.cheviiot.dq06.settings",
+      "url": "https://github.com/Cheviiot/dq06-home",
+      "author": "Cheviiot",
+      "name": "Sever Settings",
+      "installedVersion": null,
+      "latestVersion": "0.1.34",
+      "apkUrls": "[[\"DQ06Settings-armv7.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/settings-v0.1.34/DQ06Settings-armv7.apk\"]]",
+      "otherAssetUrls": "[]",
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"apkFilterRegEx\":\"^DQ06Settings-armv7\\\\.apk$\",\"filterReleaseTitlesByRegEx\":\"^Sever Settings \",\"fallbackToOlderReleases\":true,\"versionExtractionRegEx\":\"settings-v([0-9]+\\\\.[0-9]+\\\\.[0-9]+)\",\"matchGroupToUse\":\"1\",\"exemptFromBackgroundUpdates\":false,\"versionDetection\":true}",
+      "lastUpdateCheck": null,
+      "pinned": false,
+      "disabled": false,
+      "categories": [],
+      "releaseDate": null,
+      "changeLog": null,
+      "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/settings-v0.1.34"
     }
   ],
   "settings": {
