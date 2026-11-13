@@ -26,9 +26,9 @@
       "url": "https://github.com/Cheviiot/dq06-home",
       "author": "Cheviiot",
       "name": "DQ06 Home",
-      "installedVersion": "12.16.2",
-      "latestVersion": "12.16.2",
-      "apkUrls": "[[\"DQ06Home.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/launcher-v12.16.2/DQ06Home.apk\"]]",
+      "installedVersion": "12.16.6",
+      "latestVersion": "12.16.6",
+      "apkUrls": "[[\"DQ06Home.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/launcher-v12.16.6/DQ06Home.apk\"]]",
       "otherAssetUrls": "[]",
       "preferredApkIndex": 0,
       "additionalSettings": "{\"apkFilterRegEx\":\"^DQ06Home\\\\.apk$\",\"versionExtractionRegEx\":\"launcher-v([0-9]+\\\\.[0-9]+\\\\.[0-9]+)\",\"matchGroupToUse\":\"1\",\"exemptFromBackgroundUpdates\":false,\"versionDetection\":true}",
@@ -38,7 +38,26 @@
       "categories": [],
       "releaseDate": null,
       "changeLog": null,
-      "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/launcher-v12.16.2"
+      "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/launcher-v12.16.6"
+    },
+    {
+      "id": "app.fluffy",
+      "url": "https://github.com/mlm-games/Fluffy",
+      "author": "mlm-games",
+      "name": "Files",
+      "installedVersion": "4.5.1",
+      "latestVersion": "4.5.1",
+      "apkUrls": "[[\"fluffy-4.5.1-armeabi-v7a.apk\",\"https://github.com/mlm-games/Fluffy/releases/download/4.5.1/fluffy-4.5.1-armeabi-v7a.apk\"]]",
+      "otherAssetUrls": "[]",
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"apkFilterRegEx\":\"^fluffy-.*-armeabi-v7a\\\\.apk$\",\"versionExtractionRegEx\":\"v?([0-9]+\\\\.[0-9]+\\\\.[0-9]+)\",\"matchGroupToUse\":\"1\",\"exemptFromBackgroundUpdates\":false,\"versionDetection\":true}",
+      "lastUpdateCheck": null,
+      "pinned": false,
+      "disabled": false,
+      "categories": [],
+      "releaseDate": null,
+      "changeLog": null,
+      "releaseUrl": "https://github.com/mlm-games/Fluffy/releases/tag/4.5.1"
     }
   ],
   "settings": {
