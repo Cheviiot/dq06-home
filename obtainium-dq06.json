@@ -65,8 +65,8 @@
       "author": "Cheviiot",
       "name": "Sever Settings",
       "installedVersion": null,
-      "latestVersion": "0.1.36",
-      "apkUrls": "[[\"DQ06Settings-armv7.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/settings-v0.1.36/DQ06Settings-armv7.apk\"]]",
+      "latestVersion": "0.1.37",
+      "apkUrls": "[[\"DQ06Settings-armv7.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/settings-v0.1.37/DQ06Settings-armv7.apk\"]]",
       "otherAssetUrls": "[]",
       "preferredApkIndex": 0,
       "additionalSettings": "{\"apkFilterRegEx\":\"^DQ06Settings-armv7\\\\.apk$\",\"filterReleaseTitlesByRegEx\":\"^Sever Settings \",\"fallbackToOlderReleases\":true,\"versionExtractionRegEx\":\"settings-v([0-9]+\\\\.[0-9]+\\\\.[0-9]+)\",\"matchGroupToUse\":\"1\",\"exemptFromBackgroundUpdates\":false,\"versionDetection\":true}",
@@ -76,7 +76,7 @@
       "categories": [],
       "releaseDate": null,
       "changeLog": null,
-      "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/settings-v0.1.36"
+      "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/settings-v0.1.37"
     }
   ],
   "settings": {
