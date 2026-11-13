@@ -4,7 +4,7 @@
 
 - [Скачать DQ06 Files](https://github.com/Cheviiot/dq06-home/releases/tag/files-v0.1.2)
 - [Скачать DQ06 Home](https://github.com/Cheviiot/dq06-home/releases/latest)
-- [Скачать Настройки Sever](https://github.com/Cheviiot/dq06-home/releases/tag/settings-v0.1.40)
+- [Скачать Настройки Sever](https://github.com/Cheviiot/dq06-home/releases/tag/settings-v0.1.41)
 - [Профиль приложений Obtainium](https://raw.githubusercontent.com/Cheviiot/dq06-home/main/obtainium-dq06.json)
 
 ## Обновления
