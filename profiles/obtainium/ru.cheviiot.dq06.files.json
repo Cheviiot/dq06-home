@@ -4,8 +4,8 @@
   "author": "Cheviiot",
   "name": "DQ06 Files",
   "installedVersion": null,
-  "latestVersion": "0.1.1",
-  "apkUrls": "[[\"DQ06Files.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/files-v0.1.1/DQ06Files.apk\"]]",
+  "latestVersion": "0.1.2",
+  "apkUrls": "[[\"DQ06Files.apk\",\"https://github.com/Cheviiot/dq06-home/releases/download/files-v0.1.2/DQ06Files.apk\"]]",
   "otherAssetUrls": "[]",
   "preferredApkIndex": 0,
   "additionalSettings": "{\"apkFilterRegEx\":\"^DQ06Files\\\\.apk$\",\"filterReleaseTitlesByRegEx\":\"^DQ06 Files \",\"fallbackToOlderReleases\":true,\"versionExtractionRegEx\":\"files-v([0-9]+\\\\.[0-9]+\\\\.[0-9]+)\",\"matchGroupToUse\":\"1\",\"exemptFromBackgroundUpdates\":false,\"versionDetection\":true}",
@@ -15,5 +15,5 @@
   "categories": [],
   "releaseDate": null,
   "changeLog": null,
-  "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/files-v0.1.1"
+  "releaseUrl": "https://github.com/Cheviiot/dq06-home/releases/tag/files-v0.1.2"
 }

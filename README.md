@@ -2,7 +2,7 @@
 
 Лаунчер для DQ06 с плитками приложений, быстрой панелью RuStore и Google Play, настройками обновлений и Linux Lite. Исходники лаунчера и прошивки остаются закрытыми.
 
-- [Скачать DQ06 Files](https://github.com/Cheviiot/dq06-home/releases/tag/files-v0.1.1)
+- [Скачать DQ06 Files](https://github.com/Cheviiot/dq06-home/releases/tag/files-v0.1.2)
 - [Скачать DQ06 Home](https://github.com/Cheviiot/dq06-home/releases/latest)
 - [Скачать Настройки Sever](https://github.com/Cheviiot/dq06-home/releases/tag/settings-v0.1.34)
 - [Профиль приложений Obtainium](https://raw.githubusercontent.com/Cheviiot/dq06-home/main/obtainium-dq06.json)
